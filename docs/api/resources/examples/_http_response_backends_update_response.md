@@ -2,9 +2,9 @@
 #### Example Response
 ```json
 {
-  "id": "bkdhr_2GjEzdM0YF9r7gFhrX6X3qXOV6X",
-  "uri": "https://api.ngrok.com/backends/http_response/bkdhr_2GjEzdM0YF9r7gFhrX6X3qXOV6X",
-  "created_at": "2022-10-27T18:04:15Z",
+  "id": "bkdhr_2NCiBLM0vKafydPXirMLaHRP6NW",
+  "uri": "https://api.ngrok.com/backends/http_response/bkdhr_2NCiBLM0vKafydPXirMLaHRP6NW",
+  "created_at": "2023-03-18T21:18:47Z",
   "description": "acme http response",
   "metadata": "{\"environment\": \"production\"}",
   "body": "I'm a teapot",

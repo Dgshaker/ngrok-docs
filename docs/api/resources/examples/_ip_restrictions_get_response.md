@@ -2,19 +2,19 @@
 #### Example Response
 ```json
 {
-  "id": "ipx_2GjEzQLokhdmTHfAKg6ultsD0FJ",
-  "uri": "https://api.ngrok.com/ip_restrictions/ipx_2GjEzQLokhdmTHfAKg6ultsD0FJ",
-  "created_at": "2022-10-27T18:04:14Z",
+  "id": "ipx_2NCiBL6wciTKb1SOSbAkXkJCPzq",
+  "uri": "https://api.ngrok.com/ip_restrictions/ipx_2NCiBL6wciTKb1SOSbAkXkJCPzq",
+  "created_at": "2023-03-18T21:18:47Z",
   "enforced": false,
   "type": "dashboard",
   "ip_policies": [
     {
-      "id": "ipp_2GjEzPZRDj5IDJxtZKvcogPCugW",
-      "uri": "https://api.ngrok.com/ip_policies/ipp_2GjEzPZRDj5IDJxtZKvcogPCugW"
+      "id": "ipp_2NCiBGIpH8GRFZgAOANeXUX8c6h",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_2NCiBGIpH8GRFZgAOANeXUX8c6h"
     },
     {
-      "id": "ipp_2GjEzQ2zEhNUqgnSvqmYIXvPrFf",
-      "uri": "https://api.ngrok.com/ip_policies/ipp_2GjEzQ2zEhNUqgnSvqmYIXvPrFf"
+      "id": "ipp_2NCiBJ76aylyLczbuWvWqkj5G72",
+      "uri": "https://api.ngrok.com/ip_policies/ipp_2NCiBJ76aylyLczbuWvWqkj5G72"
     }
   ]
 }

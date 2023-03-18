@@ -2,8 +2,8 @@
 #### Example Response
 ```json
 {
-  "id": "ipp_2IEh23J7r4VJ1f3KejgGuKIJHbX",
-  "uri": "https://api.ngrok.com/ip_policies/ipp_2IEh23J7r4VJ1f3KejgGuKIJHbX",
-  "created_at": "2022-11-29T20:07:19Z",
+  "id": "ipp_2NCiAMyYy4kKCRMSkiH5kbDKOCq",
+  "uri": "https://api.ngrok.com/ip_policies/ipp_2NCiAMyYy4kKCRMSkiH5kbDKOCq",
+  "created_at": "2023-03-18T21:18:40Z",
   "description": "API Outbound Gateway"
 }

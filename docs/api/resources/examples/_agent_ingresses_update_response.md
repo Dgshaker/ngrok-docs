@@ -2,8 +2,8 @@
 #### Example Response
 ```json
 {
-  "id": "agin_2GjEzW83Ri26zCo7To8C7noggWH",
-  "uri": "https://api.ngrok.com/agent_ingresses/agin_2GjEzW83Ri26zCo7To8C7noggWH",
+  "id": "agin_2NCiBLr9xduhzVs9nE4azhEoNNm",
+  "uri": "https://api.ngrok.com/agent_ingresses/agin_2NCiBLr9xduhzVs9nE4azhEoNNm",
   "description": "ACME Co. Device Ingress",
   "metadata": "{\"device_sku\": \"824JS4RZ1F8X\"}",
   "domain": "connect.acme.com",
@@ -16,5 +16,5 @@
   "region_domains": [
     "tunnel.us.connect.acme.com"
   ],
-  "created_at": "2022-10-27T18:04:15Z"
+  "created_at": "2023-03-18T21:18:47Z"
 }

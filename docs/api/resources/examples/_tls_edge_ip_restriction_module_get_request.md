@@ -1,8 +1,7 @@
 
 #### Example Request
-
-```bash 
+```bash
 curl \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/edges/tls/edgtls_2EmMQGw0oHFC9xDEf8o5Sap7iPJ/ip_restriction
+https://api.ngrok.com/edges/tls/edgtls_2NCiBqvBxvZ9kDFlIWQ3utx1D2Y/ip_restriction

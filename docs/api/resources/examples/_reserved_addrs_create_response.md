@@ -2,9 +2,9 @@
 #### Example Response
 ```json
 {
-  "id": "ra_2IEgz7JdHEWwr7T3zKf0aT6xnYd",
-  "uri": "https://api.ngrok.com/reserved_addrs/ra_2IEgz7JdHEWwr7T3zKf0aT6xnYd",
-  "created_at": "2022-11-29T20:07:20Z",
+  "id": "ra_2NChiIP9vKEJLrDLW35JCxKW7q3",
+  "uri": "https://api.ngrok.com/reserved_addrs/ra_2NChiIP9vKEJLrDLW35JCxKW7q3",
+  "created_at": "2023-03-18T21:18:40Z",
   "description": "SSH for device #001",
   "addr": "1.tcp.ngrok.io:20000",
   "region": "us",

@@ -2,11 +2,11 @@
 #### Example Response
 ```json
 {
-  "id": "edghts_2GjEzcotU5YRCQOrp3rYhQ0TC1p",
+  "id": "edghts_2NCiBTfPuoKtVZu49yuUEH5XrR3",
   "description": "acme https edge",
   "metadata": "{\"environment\": \"production\"}",
-  "created_at": "2022-10-27T18:04:15Z",
-  "uri": "https://api.ngrok.com/edges/https/edghts_2GjEzcotU5YRCQOrp3rYhQ0TC1p",
+  "created_at": "2023-03-18T21:18:48Z",
+  "uri": "https://api.ngrok.com/edges/https/edghts_2NCiBTfPuoKtVZu49yuUEH5XrR3",
   "hostports": [
     "example.com:443"
   ],

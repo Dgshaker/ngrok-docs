@@ -2,9 +2,9 @@
 #### Example Response
 ```json
 {
-  "id": "bkdtg_2GjEzZEUKQauoGcmPKyu4JPPKji",
-  "uri": "https://api.ngrok.com/backends/tunnel_group/bkdtg_2GjEzZEUKQauoGcmPKyu4JPPKji",
-  "created_at": "2022-10-27T18:04:15Z",
+  "id": "bkdtg_2NCiBKVBJGBXocgd5kJYzOCWkgK",
+  "uri": "https://api.ngrok.com/backends/tunnel_group/bkdtg_2NCiBKVBJGBXocgd5kJYzOCWkgK",
+  "created_at": "2023-03-18T21:18:47Z",
   "description": "acme tunnel group",
   "metadata": "{\"environment\": \"staging\"}",
   "labels": {

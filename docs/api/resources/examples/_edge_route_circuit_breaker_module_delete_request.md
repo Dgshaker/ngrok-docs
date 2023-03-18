@@ -5,4 +5,4 @@ curl \
 -XDELETE \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Ngrok-Version: 2" \
-https://api.ngrok.com/edges/https/edghts_2GjEzerix6mg8Ep5mryN1P6GXi1/routes/edghtsrt_2GjEzhBlw27bMgEKIFBylH7iLsi/circuit_breaker
+https://api.ngrok.com/edges/https/edghts_2NCiBSOcGtboqwS9uQbUjGSR3nU/routes/edghtsrt_2NCiBR9J5ty7Zz3KpYJHRZnq59u/circuit_breaker
